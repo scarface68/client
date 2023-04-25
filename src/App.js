@@ -85,7 +85,7 @@ function App() {
   return (
     <>
       <Stack direction="column" spacing={1} sx={{ mb: 4 }}>
-        <Typography>Select an option</Typography>
+        <Typography>Select an option (the data fetching takes some time at 1st because I am using free hosting)</Typography>
         <TextField
           select
           size="small"
